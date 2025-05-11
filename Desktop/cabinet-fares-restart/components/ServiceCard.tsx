@@ -1,0 +1,1 @@
+export default function ServiceCard({ title }) { return <div className='p-4 border rounded'>{title}</div>; }

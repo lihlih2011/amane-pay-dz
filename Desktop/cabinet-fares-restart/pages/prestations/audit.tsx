@@ -1,0 +1,1 @@
+export default function Page() { return (<div><h1>Audit RGPD</h1></div>); }

@@ -1,0 +1,1 @@
+export default function Page() { return (<div><h1>Accueil - Cabinet FARES Chawki</h1></div>); }

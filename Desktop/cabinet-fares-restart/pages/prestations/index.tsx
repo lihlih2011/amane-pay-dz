@@ -1,0 +1,1 @@
+export default function Page() { return (<div><h1>Nos prestations</h1></div>); }
